@@ -1,0 +1,37 @@
+img{
+    width: 60%;  
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+
+li{ 
+    font-size: 28px;
+    font-style: initial;
+    text-transform: uppercase;
+}
+body{
+    background-color: #32402f;
+    color: #ffffff;
+}
+.div1{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+}
+
+header{
+    color: #ffffff;
+    font-size: 20px;
+    display: inline;
+    justify-content: center;
+    text-align:center ;
+    align-items:center ;
+}
+li{ 
+    line-height: 60px;
+}
